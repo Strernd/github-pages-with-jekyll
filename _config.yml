@@ -2,8 +2,8 @@ title: Blog - strehl.dev
 author: Bernd Strehl
 email: bernd@strehl.dev
 description: > # this means to ignore newlines until "baseurl:"
-  After 2.5 years of web3 I returned back to web2 a a serverless developer. I learned
-  technical details of cryptocurrencies and blockchains in recent time and use this site
+  After 2.5 years of web3 I returned back to web2 as a serverless developer. I learned
+  technical details about cryptocurrencies and blockchains in recent time and use this site
   to educate people about it.
 theme: minima
 
